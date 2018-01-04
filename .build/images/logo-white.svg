@@ -1,0 +1,40 @@
+<svg width="104" height="80" viewBox="0 0 104 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>logo-white</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3031 -256)">
+<g id="logo-white" opacity="0.8">
+<g id="Group 3">
+<g id="Fill 1">
+<use xlink:href="#path0_fill" transform="translate(3121.22 269.974)" fill="#FEFEFE"/>
+</g>
+</g>
+<g id="Group 6">
+<mask id="mask0_outline" mask-type="alpha">
+<g id="Clip 5">
+<use xlink:href="#path1_fill" transform="translate(3094.92 256.181)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="Fill 4" mask="url(#mask0_outline)">
+<use xlink:href="#path2_fill" transform="translate(3094.92 256.18)" fill="#FEFEFE"/>
+</g>
+</g>
+<g id="Fill 7">
+<use xlink:href="#path3_fill" transform="translate(3031 291.219)" fill="#FEFEFE"/>
+</g>
+<g id="Fill 9">
+<use xlink:href="#path4_fill" transform="translate(3053.55 269.15)" fill="#FEFEFE"/>
+</g>
+<g id="Fill 11">
+<use xlink:href="#path5_fill" transform="translate(3076.16 258.069)" fill="#FEFEFE"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 6.53436 0C 2.92512 0 0 2.89625 0 6.47242L 0 38.2962C 0 41.8725 2.92512 44.7686 6.53436 44.7686C 10.1462 44.7686 13.0711 41.8725 13.0711 38.2962L 13.0711 6.47242C 13.0711 2.89625 10.1462 0 6.53436 0Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 1.02652e-14L 24.9673 1.02652e-14L 24.9673 71.6527L 1.03675e-14 71.6527L 1.03675e-14 0L 0 1.02652e-14Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 15.4188 67.2708C 12.5803 67.2708 10.2859 64.9941 10.2859 62.1885C 10.2859 59.3882 12.5803 57.1166 15.4188 57.1166C 18.2421 57.1166 20.5415 59.3882 20.5415 62.1885C 20.5415 64.9941 18.2421 67.2708 15.4188 67.2708ZM 20.5694 54.2319L 20.5694 43.8042L 10.3572 36.973L 10.3572 27.539L 20.5694 19.3416L 20.5694 5.09996L 20.5212 5.09996C 20.5212 2.28442 18.214 0 15.3704 0C 12.5194 0 10.2173 2.28442 10.2173 5.09996L 10.2173 14.4533L 0 22.6557L 0 43.0687L 10.2173 49.8886L 10.2173 54.2526C 7.59275 55.9375 5.85515 58.8621 5.85515 62.1936C 5.85515 67.4169 10.1308 71.6529 15.4062 71.6529C 20.6916 71.6529 24.9673 67.4169 24.9673 62.1936C 24.9673 58.848 23.2151 55.9133 20.5694 54.2319Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 6.53436 0C 2.92512 0 0 2.89878 0 6.47223L 0 38.296C 0 41.8723 2.92512 44.7686 6.53436 44.7686C 10.1385 44.7686 13.0711 41.8723 13.0711 38.296L 13.0711 6.47223C 13.0711 2.89878 10.1385 0 6.53436 0Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="M 6.53673 0C 2.92749 0 0 2.89607 0 6.47223L 0 55.031C 0 58.6071 2.92749 61.5034 6.53673 61.5034C 10.146 61.5034 13.0711 58.6071 13.0711 55.031L 13.0711 6.47223C 13.0711 2.89607 10.146 0 6.53673 0Z"/>
+<path id="path5_fill" fill-rule="evenodd" d="M 6.53929 0C 2.93259 0 0 2.89607 0 6.47223L 0 60.7729C 0 64.3541 2.93259 67.2504 6.53929 67.2504C 10.1485 67.2504 13.0735 64.3541 13.0735 60.7729L 13.0735 6.47223C 13.0735 2.89607 10.1485 0 6.53929 0Z"/>
+</defs>
+</svg>

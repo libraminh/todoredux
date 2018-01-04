@@ -1,0 +1,5 @@
+!.gitignore
+!index.html.example
+!index.html.dev
+!favicon.ico
+!.htaccess
