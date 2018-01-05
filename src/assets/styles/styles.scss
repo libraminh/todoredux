@@ -435,6 +435,7 @@ textarea {
     display: flex;
     li {
         margin-right: 10px;
+        cursor: pointer;
         &:first-child {
             margin-left: 10px;
         }

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { addTodo } from '../actions/TodoActions';
+import { addTodo } from 'actions/TodoActions';
 import { connect } from 'react-redux';
 
 class TodoForm extends Component {

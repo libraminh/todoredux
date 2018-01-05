@@ -51,5 +51,10 @@ module.exports = {
             path: path.join(__dirname, "wp.dev.env"),
             safe: false
         })
-    ]
+    ],
+    resolve: {
+        alias: {
+            actions: path.resolve(__dirname, "src/actions"),
+        }
+    }
 };
